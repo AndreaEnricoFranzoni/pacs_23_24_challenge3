@@ -1,0 +1,10 @@
+# analytical expression of the function
+f=8*_pi*_pi*sin(2*_pi*x)*sin(2*_pi*y)
+# analytical expression of the boundary condition R^2 --> R
+boundary=0
+# number of subintervals in the grid for each dimension
+n=1000
+# tolerance for convergence 
+eps=1.0e-6
+# max number of iterations
+itermax=1000000
