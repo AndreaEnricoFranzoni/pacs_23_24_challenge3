@@ -52,7 +52,7 @@ Parameters are passed through a `GetPot` file, so once the code has been compile
 Function and boundary conditions are pased through `muparser` encoding for the string (`pi` has to be passed as `_pi`).
 
 # Weak points
-I apologize in advance for the code, and the challenge in general, since it has been "solved" horribly by me. I am not taking it as an excuse but I could dedicate to it barely 4 days since I was returning home from Erasmus experience, having had there the exam session in the past weeks. I wanted to try the same to do it, I know that is not respecting minimally course's expectations. I was barely able to write a first draft code. I am sorry if correction will make you lose time.
+I apologize in advance for the code, and the challenge in general, since it has been "solved" horribly by me. I am not taking it as an excuse but I could dedicate to it barely 4 days since I was returning home from Erasmus experience, having had there the exam session in the past weeks. I wanted to try the same to do it, I know that is not respecting minimally course's expectations. I was barely able to write a first draft code. I am sorry if correcting it will make you lose time.
 
 Generally:
  - I have no idea of the code efficiency from parallel point of view. I think is quite bad, especially in solution updating.
