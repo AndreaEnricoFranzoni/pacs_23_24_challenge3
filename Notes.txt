@@ -1,0 +1,10 @@
+- problems in running the serial version (it looks like there may be a problem with memory deallocation)
+
+- everything implemented inside the main file. You could have implemented the solver in the Jacobi class
+
+- good job in playing with the course examples
+
+- no scalability test, the computational time does not decrease with the number of processes
+- problems in running with 3-4-5 cores.
+
+- I cannot visualize the solution in Paraview

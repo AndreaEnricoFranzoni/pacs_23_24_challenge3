@@ -98,7 +98,7 @@ namespace APSC::JACOBI_SOLVER
         * To create a VTK file
         */
        void fileVTK() const
-       { const std::string filename="Solution";
+       { const std::string filename="Solution.vtk";
         generateVTKFile(filename,this->m_U,this->m_n,this->m_n, this->m_h,this->m_h);
        }
         
